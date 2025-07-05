@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kukapay-crypto-projects-mcp-badge.png)](https://mseep.ai/app/kukapay-crypto-projects-mcp)
+
 # Crypto Projects MCP Server
 
 An MCP server that provides cryptocurrency project data from [Mobula.io](https://mobula.io/) to AI agents.
